@@ -7,10 +7,10 @@
 # Man vs. Keyboard: Statistical Analysis of Typing Ability
 
 ![Tools](https://img.shields.io/badge/Tools-R%20)
-![Data](https://img.shields.io/badge/Data-Original%20(N=30)-green)
 
 
-## 📄 [Read the Full Statistical Report (PDF)](./report.pdf)
+
+## 📄 [Statistical Report (PDF)](./report.pdf)
 
 ## Summary
 **Objective:** Collect data from day-to-day life and use statistics to gain deeper insights.

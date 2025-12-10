@@ -1,30 +1,23 @@
 # Data Science Portfolio
 **Author:** Darragh Coyle
-**Focus:** Statistical Inference, , and Data Visualization  
-**Contact:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/darragh-coyle/) | [Your Email]
+**Focus:** Statistical Inference and Data Visualization  
+**Contact:** [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) | [Your Email]
 
 
-# ⌨️ Man vs. Keyboard: A Statistical Audit of Human Performance
+# Man vs. Keyboard: Statistical Analysis of Typing Ability
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Tools](https://img.shields.io/badge/Tools-R%20|%20Bayesian%20Inference%20|%20Regression-blue)
+![Tools](https://img.shields.io/badge/Tools-R%20)
 ![Data](https://img.shields.io/badge/Data-Original%20(N=30)-green)
 
-> **The Question:** Does "practice make perfect," or do environmental factors like caffeine and music play a larger role in motor learning efficiency?
 
 ## 📄 [Read the Full Statistical Report (PDF)](./report.pdf)
 
----
-
-## 1. Executive Summary & Business Value
-**Objective:** To optimize personal productivity and typing efficiency by identifying statistically significant performance drivers.
-**Context:** In a data science career involving heavy keyboard usage, even a marginal increase in typing efficiency or accuracy translates to significant long-term time savings.
-**Key Result:** Contrary to popular belief, the "Mozart Effect" was debunked for my workflow; listening to music **decreased** the probability of a high-performance session by **8.3%**.
+## Summary
+**Objective:** Collect data from day-to-day life and use statistics to gain deeper insights.
 
 ---
 
 ## 2. Data Collection (Originality)
-*Unlike standard datasets (e.g., Titanic, Iris), this project utilizes a novel, self-generated dataset.*
 * **Source:** Longitudinal study over 4 weeks ($N=30$ trials).
 * **Tools:** TypingTest.com (Data Generation), Excel/CSV (Data Entry).
 * **Variables:**
@@ -61,17 +54,7 @@ Using Bayes' Theorem, I calculated the posterior probability of a successful run
 
 ---
 
-## 5. Visualizations
+## Visualizations
 *(See full report for detailed R-generated plots)*
 
 *Figure 1: Bayesian update showing the shift in probability when music is introduced.*
-
----
-
-## 6. Reproducibility
-To verify these results or apply this methodology to your own data:
-
-1. **Load Data:**
-   ```r
-   df <- read.csv("data/typing_log.csv")
-

@@ -6,7 +6,7 @@
 
 # Man vs. Keyboard: Statistical Analysis of Typing Ability
 
-![Tools](https://img.shields.io/badge/Tools-R%20)
+![Tools](https://img.shields.io/badge/Tools-R%20|)
 
 
 

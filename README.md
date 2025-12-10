@@ -27,4 +27,6 @@ Collect data my from day-to-day life and use statistics to gain deeper insights.
 | **Do I work better in public or private?** | `Chi-sqaured Test` | 
 | **How is my work-life balance?** |`Fisher's Exact Test`|
 
-![Bayesian Posterior Distribution](./figures/bayesian_plot.png){width=20%}
+<p align="center">
+  <img src="./figures/bayesian_plot.png" alt="Bayesian Posterior Distribution" width="40%">
+</p>

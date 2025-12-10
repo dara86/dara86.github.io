@@ -4,7 +4,7 @@
 **Date:** December 2025  
 **Tools:** R, Linear Regression, Bayesian Inference, Hypothesis Testing
 
-## 📄 [Download Full Statistical Report (PDF)](./Statistics_Porfolio.pdf)
+## 📄 [Download Full Statistical Report (PDF)](./Statistics_Portfolio.pdf)
 
 ---
 

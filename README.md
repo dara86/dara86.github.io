@@ -17,21 +17,14 @@ Using <https://www.typingtest.com>, collected 30 observations over 4 weeks.
 
 ---
 
-## Statistics Overview
+### Statistics Overview
 
-| Question | Statistical Test | 
-| :--- | :--- | 
-| **Does practice make perfect?** | `Linear Regression` | 
-| **Does music help me focus?** | `Bayesian Inference` | 
-| **Do I work better in public or private?** | `Chi-sqaured Test` | 
-| **How is my work-life balance?** |`Fisher's Exact Test`|
+| Question | Statistical Test | | 
+| :--- | :--- | :---| 
+| **Does practice make perfect?** | `Linear Regression` | <img src="./figures/linear_regression.png" width="80%">
+| **Does music help me focus?** | `Bayesian Inference` | <img src="./figures/bayesian_plot.png" width="80%">
+| **Does coffee increase accuracy?** | `Welchs t-test` | <img src="./figures/t-test.png" width="80%">
 
-<p align="center">
-  <img src="./figures/bayesian_plot.png" alt="Bayesian Posterior Distribution" width="40%">
-  <img src="./figures/linear_regression.png" alt="Bayesian Posterior Distribution" width="40%">
-   <img src="./figures/chi.png" alt="Bayesian Posterior Distribution" width="40%">
-   <img src="./figures/fisher.png" alt="Bayesian Posterior Distribution" width="40%">
-   <img src="./figures/t-test.png" alt="Bayesian Posterior Distribution" width="40%">
-</p>
+
 
 

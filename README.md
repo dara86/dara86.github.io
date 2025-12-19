@@ -17,7 +17,6 @@ Using <https://www.typingtest.com>, collected 30 observations over 4 weeks.
     * **Test Conditions:** Test length (1 vs. 3 minutes), Test difficulty (Easy vs. Hard). 
     * **Environment:** Caffeine (Y/N), Music (Y/N), Time of Day, Location (Home, Library, Cafe).
 
----
 
 ### Statistics Overview
 

@@ -4,7 +4,7 @@
 
 ---
 
-## Man vs. Keyboard: Statistical Analysis of My Typing Ability - [Full Report (.pdf)](./stats_report.pdf)
+## Man vs. Keyboard: Statistical Analysis of My Typing Ability - [Full Report (.pdf)](./the_stats_report.pdf)
 
 **Goal:** Take data from day-to-day life and use statistical techniques to get deeper insights into how I approach the task of self-improvement 
 

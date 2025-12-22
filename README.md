@@ -9,18 +9,19 @@
 
 **Goal:** To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand findings
 
-<section id="pdf-embed" style="height: 100vh; width: 100%;">
-  <h2>Full Report</h2>
-  
-  <embed 
-    src="jcp_report.pdf" 
-    type="application/pdf" 
-    width="100%" 
-    height="100%" 
-    style="min-height: 800px; border: none;"
-  />
-  
-</section>
+<details>
+<summary><strong>Click to expand/view full report</strong></summary>
+<br>
+
+![Page 1](figures/jcp_01.jpg)
+![Page 2](figures/jcp_02.jpg)
+![Page 3](figures/jcp_03.jpg)
+![Page 4](figures/jcp_04.jpg)
+![Page 5](figures/jcp_05.jpg)
+
+</details>
+
+[Download the PDF](jcp_report.pdf)
 
 
 ---

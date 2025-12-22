@@ -9,7 +9,7 @@
 
 <br>
 
-**Goal:** To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand findings
+**Goal:** To showcase ability to understand and manipulate raw data and present insights so non-technical audiences can understand the findings
 
 
 <details>

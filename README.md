@@ -1,8 +1,10 @@
 
 
+Hi! 
 
-**Author:** Darragh Coyle  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) 
+My name is Darragh Coyle. I'm an aspiring data scientist currently studying MSc in Big Data at University of Stirling. This page is used to display past projects I've completed so feel free to have a look!
+
+You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) 
 
 ---
 ## Business Insights for Retail Company JCPenney - [Report + Source Code(.pdf)](./jcp_report.pdf)

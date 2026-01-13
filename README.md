@@ -6,7 +6,7 @@ My name is Darragh Coyle. I'm an aspiring data scientist currently studying MSc 
 
 You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/) 
 
-![](https://via.placeholder.com/1000x5/1a80bb/1a80bb?text=+)
+<img src="https://render.githubusercontent.com/render/math?math=\color{black}\rule{1000pt}{5pt}">
 
 
 ## Business Insights for Retail Company JCPenney - [Report + Source Code(.pdf)](./jcp_report.pdf)
@@ -31,7 +31,7 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/)
 
 
 
-![](https://via.placeholder.com/1000x5/1a80bb/1a80bb?text=+)
+<img src="https://render.githubusercontent.com/render/math?math=\color{black}\rule{1000pt}{5pt}">
 
 
 ## Man vs. Keyboard: Statistical Analysis of My Typing Ability - [Report + Source Code(.pdf)](./the_stats_report.pdf)

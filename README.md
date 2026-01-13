@@ -8,8 +8,9 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/)
 
 ***
 
-
+{: .notice--primary}
 ## Business Insights for Retail Company JCPenney - [Report + Source Code(.pdf)](./jcp_report.pdf)
+
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
@@ -33,8 +34,9 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/)
 
 ***
 
-
+{: .notice--primary}
 ## Man vs. Keyboard: Statistical Analysis of My Typing Ability - [Report + Source Code(.pdf)](./the_stats_report.pdf)
+
 ![R](https://img.shields.io/badge/Language-R-276DC3)
 
 

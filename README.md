@@ -8,7 +8,7 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/)
 
 ***
 
-{: .notice--primary style="font-size: 2.5em;"}
+{: .notice--primary}
 # Business Insights for Retail Company JCPenney
 
 **Link:** [Report + Source Code(.pdf)](./jcp_report.pdf)
@@ -33,7 +33,7 @@ You can find me on: [LinkedIn](https://www.linkedin.com/in/darragh-coyle/)
 
 ***
 
-{: .notice--primary style="font-size: 2.5em;"}
+{: .notice--primary}
 # Man vs. Keyboard: Statistical Analysis of My Typing Ability 
 
 **Link:** [Report + Source Code(.pdf)](./the_stats_report.pdf)

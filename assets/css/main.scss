@@ -4,3 +4,11 @@ hr {
   margin-top: 2em !important;
   margin-bottom: 2em !important;
 }
+
+.notice--primary {
+  font-size: 1.25em; 
+  
+  h2, h3, h4 {
+    margin-top: 0; 
+  }
+}
